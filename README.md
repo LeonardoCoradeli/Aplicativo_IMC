@@ -1,2 +1,3 @@
-# Aplicativo_IMC
-Aplicativo de celular que calcula o imc. Aplicação feita para o estudo de React Native.
+# Aplicativo para  cálculo de IMC
+
+##Aplicação feita para o estudo de React Native.
